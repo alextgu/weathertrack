@@ -7,7 +7,7 @@ time_url = "https://worldtimeapi.org/api/timezone/America/Toronto"
 
 # API parameters
 lat, lon = 43.551915, -79.579578
-weather_api_key = "801470731a163b794712c34ea5fd3a56" 
+weather_api_key = "Weather_API_Key"
 
 # Fetch data from APIs
 weather_response = requests.get(
